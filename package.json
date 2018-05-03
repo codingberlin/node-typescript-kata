@@ -4,11 +4,13 @@
   "description": "Kata to use Type Script client and server side and share the same types",
   "main": "index.js",
   "scripts": {
-    "build": "tsc"
+    "format": "tsfmt -r",
+    "build": "tsfmt -r && tsc"
   },
   "author": "codingberlin",
   "license": "ISC",
   "dependencies": {
-    "typescript": "^2.8.3"
+    "typescript": "^2.8.3",
+    "typescript-formatter": "^7.2.0"
   }
 }
