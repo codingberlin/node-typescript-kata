@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-typescript-kata",
+  "version": "1.0.0",
+  "description": "Kata to use Type Script client and server side and share the same types",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "codingberlin",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
