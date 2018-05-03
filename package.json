@@ -10,6 +10,7 @@
   "author": "codingberlin",
   "license": "ISC",
   "dependencies": {
+    "express": "^4.16.3",
     "typescript": "^2.8.3",
     "typescript-formatter": "^7.2.0"
   }
